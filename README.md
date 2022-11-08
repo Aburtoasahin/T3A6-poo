@@ -19,4 +19,6 @@ entrada: -empleado: nombre, apellidos, curp, email, RFC, salario, años de traba
  +-------------------------------------------------------+
 
 # Etapa 3 diseño de la solucion 
-¡[]()
+![](https://github.com/Aburtoasahin/T3A6-poo/blob/main/clases.jpeg)
+
+#Etapa 4 Desarrollo de la solucion...
